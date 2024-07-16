@@ -1,6 +1,6 @@
 Hi, My name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree at Korea University in South Korea. I belong to the Department of Electrical and Computer Engineering with a specialization in wireless communication systems. My research interest includes physical wireless communications and robust signal processing. 
 
-I am very open to have a discussion on the above fields. Please feel free to contact me 😁
+I am very open to having a discussion on the above fields. Please feel free to contact me 😁
 
 <!--
 **zhouwt612/zhouwt612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
