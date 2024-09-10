@@ -1,4 +1,4 @@
-Hi, My name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree at Korea University in Seoul, South Korea. I am also a visiting researcher at Khalifa University in Abu Dhabi, UAE. My research area is wireless communications. My research interest includes physical wireless communications and robust signal processing. 
+Hi, my name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree at Korea University in Seoul, South Korea. I am also a visiting researcher at Khalifa University in Abu Dhabi, UAE. My research area is wireless communications. My research interest includes physical-layer wireless communications and robust signal processing. 
 
 I am very open to having a discussion on the above fields. Please feel free to contact me 😁
 
