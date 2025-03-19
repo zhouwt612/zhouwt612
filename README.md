@@ -1,6 +1,4 @@
-Hi, my name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree at Korea University in Seoul, South Korea. I am also a visiting researcher at Khalifa University in Abu Dhabi, UAE. My research area is wireless communications. My research interest includes physical-layer wireless communications and robust signal processing. 
-
-I am very open to having a discussion on the above fields. Please feel free to contact me 😁
+Hi, my name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree at Korea University in Seoul, South Korea. I was a visiting researcher at Khalifa University in Abu Dhabi, UAE. My research area is wireless communications and large language models. My research interest includes physical-layer wireless communications, statistical signal processing, and LLM. 
 
 <!--
 **zhouwt612/zhouwt612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
