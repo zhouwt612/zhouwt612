@@ -1,4 +1,4 @@
-Hi, my name is Zhou, Wentao (周文涛). I am currently a Senior Staff Engineer at Huawei Singapore Research Center, specializing in short-range communications. I earned my Ph.D. in Electrical Engineering from Korea University.
+Hi, my name is Zhou Wentao (周文涛). I am currently a Senior Staff Engineer at Huawei Singapore Research Center, specializing in short-range communications. I earned my Ph.D. in Electrical Engineering from Korea University.
 
 <!--
 **zhouwt612/zhouwt612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
