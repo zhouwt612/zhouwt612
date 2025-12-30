@@ -1,4 +1,4 @@
-Hi, my name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree at Korea University in Seoul, South Korea. I was a visiting researcher at Khalifa University in Abu Dhabi, UAE. My research area is wireless communications and large language models. My research interest includes physical-layer wireless communications, statistical signal processing, and LLM. 
+Hi, my name is Zhou, Wentao (周文涛). I am currently a Senior Staff Engineer at Huawei Singapore Research Center, specializing in short-range communications. I earned my Ph.D. in Electrical Engineering from Korea University.
 
 <!--
 **zhouwt612/zhouwt612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
